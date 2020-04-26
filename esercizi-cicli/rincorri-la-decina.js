@@ -20,9 +20,11 @@
   http://www.imparareaprogrammare.it
 */
 
-for (var i = 1; i <= 100; i++) {
+for (var i = 0; i <= 100; i++) {
   console.log(i);
-}                                          /*
+}
+
+                                     /*
                                                Scrivendo questo codice mi viene
                                                restituita una lista di valori
                                                che assume i, ma in colonna,
