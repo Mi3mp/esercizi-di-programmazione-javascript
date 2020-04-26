@@ -19,3 +19,25 @@
 
   http://www.imparareaprogrammare.it
 */
+
+for (var i = 1; i <= 100; i++) {
+  console.log(i);
+}                                          /*
+                                               Scrivendo questo codice mi viene
+                                               restituita una lista di valori
+                                               che assume i, ma in colonna,
+                                               ovvero:
+                                               1
+                                               2
+                                               3
+                                               4
+                                               .
+                                               .
+                                               .
+                                               100
+                                               come faccio ad avere la stessa
+                                               lista ma con i numeri in riga?
+                                               In modo così da poter osare il
+                                               comando "\n" per andare a capo
+                                               ad ogni decina.
+                                           */
